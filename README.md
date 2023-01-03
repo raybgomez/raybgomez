@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raybgomez
-- 👀 I’m interested in Data Science/UX Research/Front-end
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on ...not sure yet
 - 📫 How to reach me (rgbrown21@icloud.com)
