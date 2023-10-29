@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @raybgomez
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on ...not sure yet
-- 📫 How to reach me (rgbrown21@icloud.com)
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/PembeThePinkCat-cute-pembe-the-pink-cat-nFLW7PNGgN3lI68rdv" width="100"/>
+</div>
 
-<!---
-raybgomez/raybgomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<iframe src="https://giphy.com/embed/nFLW7PNGgN3lI68rdv" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PembeThePinkCat-cute-pembe-the-pink-cat-nFLW7PNGgN3lI68rdv">via GIPHY</a></p>
