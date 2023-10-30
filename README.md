@@ -19,6 +19,8 @@
   hello! 👋
 </h1>
 <div align="center">
+  
+  ![Black Technology LinkedIn Banner](https://github.com/raybgomez/raybgomez/assets/117782111/31280e16-f4da-4a92-8068-bd091c3eab17)
   <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif" width="300" height="300"/>
 </div>
 ---
