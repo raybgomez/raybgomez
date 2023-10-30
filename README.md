@@ -19,7 +19,7 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=raybgomez&style=flat-square&color=blue" alt=""/>  
 </div>
-<h1 align=>
+<h1 align="center">
   hello!
   <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px"/>
 </h1>
