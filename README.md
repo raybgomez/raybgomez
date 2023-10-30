@@ -16,7 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=raybgomez&style=flat-square&color=blue" alt=""/>  
 </div>
 <div>
-  <img src="https://github.com/raybgomez/raybgomez/assets/117782111/c239c1c3-40ae-4ed7-9d12-3932dc315761"/>
+  
+  ![My Github banner](https://github.com/raybgomez/raybgomez/assets/117782111/e2bf3265-28ad-492d-8c00-1a7338e0c7ca)
+
 </div>
 ---
 
@@ -46,7 +48,9 @@
   </thead>
   <tr>
     <td> Todo List ✿ </td>
-    <td><img width="1280" alt="To-do Screenshot" src="https://github.com/raybgomez/raybgomez/assets/117782111/b666bcc0-5536-45bd-a8b1-aece4290049c"/></td>
+    <td>
+      <img width="1280" alt="To-do Screen shot" src="https://github.com/raybgomez/raybgomez/assets/117782111/e8e62d69-826a-443c-b6ac-d1b586468105">
+    </td>
     <td>A simple to-do list to keep track of your everyday tasks.</td>
     <td>◦ React<br>◦ JavaScript<br>◦ Webpack<br>◦ Tailwind<br></td>
     <td><a href="https://raybgomez.github.io/to-do-list/">Link</a> </td>
@@ -54,8 +58,9 @@
 
   <tr>
     <td>Weather App</td>
-    <td><img width="1280" alt="websiteScreenShot" src="https://github.com/raybgomez/raybgomez/assets/117782111/5d5c74be-4232-43fc-856e-0bfe92a0e60c">
-</td>
+    <td>
+      <img width="1280" alt="websiteScreenShot" src="https://github.com/raybgomez/raybgomez/assets/117782111/7231031c-99c6-4233-a1ec-2cac6db75792">
+    </td>
     <td>Want a fun way to look up the weather in your area? Look no further, this is Mr.Puff's weather app. Find your local forecast with the cutest anchorman ever!
 </td>
     <td>◦ Javascript<br>◦ HTML5<br>◦ CSS3<br></td>
@@ -63,8 +68,9 @@
   </tr>
   <tr>
     <td>Mind Matters</td>
-    <td> <img width="1279" alt="MindMattersSS" src="https://github.com/raybgomez/raybgomez/assets/117782111/6d59eeb2-1769-49ea-a5ed-7a13563ae122">
-</td>
+    <td> 
+      <img width="1279" alt="MindMattersSS" src="https://github.com/raybgomez/raybgomez/assets/117782111/e1129824-b2c9-492c-80ae-c1f77f45cb82">
+    </td>
     <td>Group project collaboration for the Women Who Code Hackaton for Social Justice. This is a mental health tracking platform. Users can users can learn about mindfulness activities, then add these activities to their checklist. Progress is measured based on completion. </td>
 <td>◦ React<br>◦ Figma<br>◦1Password<br>◦Express.js<br>◦PostgreSQL<br>◦Tailwind<br>◦ Node.js<br>◦ CSS3 </td>    <td><a href="https://github.com/dxyz773/mind-matters">Repo</a></td>
   </tr>
