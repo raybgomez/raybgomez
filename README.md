@@ -17,7 +17,6 @@
 </div>
 <div>
   <img src="https://github.com/raybgomez/raybgomez/assets/117782111/c239c1c3-40ae-4ed7-9d12-3932dc315761"/>
-
 </div>
 ---
 
@@ -71,8 +70,9 @@
   </tr>
   <tr>
     <td>Rock, Paper, Scissors Game</td>
-    <td> <img width="1280" alt="rps-screenshot" src="https://github.com/raybgomez/raybgomez/assets/117782111/e65ca2a1-b182-4df7-b67e-5e7050fab42d">
-</td>
+    <td>
+      <img width="1280" alt="rps-screenshot" src="https://github.com/raybgomez/raybgomez/assets/117782111/1896a113-07d6-4ddc-8bd9-79dcc251a75b">
+    </td>
     <td>Try your hand at the most ultimate Rock, Paper, Scissors game you've ever played! Are you up for the challenge! </td>
     <td>◦ JavaScript<br>◦ HTML5<br>◦ CSS3</td>
     <td><a href="https://raybgomez.github.io/Rock_Paper_Scissors/">Link</a></td>
