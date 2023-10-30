@@ -22,6 +22,10 @@
 <div align="center">
   <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif" width="300" height="300"/>
 </div>
+---
+
+### :woman_technologist: About Me : I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
 
 
 
