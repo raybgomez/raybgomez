@@ -48,7 +48,7 @@
     <td> Todo List ✿ </td>
     <td><img width="350" alt="CampRetro" src="https://github.com/dxyz773/dxyz773/assets/102256981/13b0907f-8f90-41b8-b917-8b5d278887aa"/> </td>
     <td>Camp Retro is an interactive game where users sign up, make a camper profile, play games, and win retro prizes.</td>
-    <td>◦ React<br>◦ JavaScript<br>◦Tailwind</td>
+    <td>◦ React<br>◦ JavaScript<br>◦ Tailwind</td>
     <td>◦ Virtual Lunchbox<br>◦ 'Rock, Paper, Scissors' Game<br>◦ Retro prizes</td>
     <td><a href="https://github.com/dxyz773/camp_retro">Repo</a> </td>
   </tr>
