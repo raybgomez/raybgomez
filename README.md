@@ -5,12 +5,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lkmM9NBSGUbKde24c9/giphy.gif" width="200"/>
 </div>
-
-<div id="badges">
-  
- 
-</div>
-
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/rgbg">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,6 +15,9 @@
   <a href="discordapp.com/users/702354309748097084">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+</div>
+<div id="badges">
+<img src="https://komarev.com/ghpvc/?username=https://github.com/raybgomez/&style=flat-square&color=blue" alt=""/>  
 </div>
 
 
