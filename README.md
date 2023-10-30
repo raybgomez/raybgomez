@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=raybgomez&style=flat-square&color=blue" alt=""/>  
 </div>
 <div align="center">
-  ![Black Technology LinkedIn Banner](https://github.com/raybgomez/raybgomez/assets/117782111/31280e16-f4da-4a92-8068-bd091c3eab17)
+  <img![Black Technology LinkedIn Banner](https://github.com/raybgomez/raybgomez/assets/117782111/31280e16-f4da-4a92-8068-bd091c3eab17)/>
 </div>
 ---
 
