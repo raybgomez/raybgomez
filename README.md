@@ -46,9 +46,9 @@
   <tr>
     <td> Todo List ✿ </td>
     <td><img width="1280" alt="To-do Screenshot" src="https://github.com/raybgomez/raybgomez/assets/117782111/b666bcc0-5536-45bd-a8b1-aece4290049c"/></td>
-    <td>Camp Retro is an interactive game where users sign up, make a camper profile, play games, and win retro prizes.</td>
+    <td>A simple to-do list to keep track of your everyday tasks.</td>
     <td>◦ React<br>◦ JavaScript<br>◦ Webpack<br>◦ Tailwind</td>
-    <td><a href="https://github.com/dxyz773/camp_retro">Repo</a> </td>
+    <td><a href="https://raybgomez.github.io/to-do-list/">Repo</a> </td>
   </tr>
 
   <tr>
