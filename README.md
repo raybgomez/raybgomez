@@ -105,7 +105,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raybgomez&layout=compact&theme=vision-friendly-dark)](https://github.com/raybgomez/github-readme-stats)
 
-![Snake animation](https://github.com/raybgomez/raybgomez/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/raybgomez/blob/output/github-contribution-grid-snake.svg)
 
 
 
