@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://img1.picmix.com/output/stamp/normal/7/5/2/8/2468257_47ec2.gif" width="100"/>
+  <img src="https://img1.picmix.com/output/stamp/normal/7/5/2/8/2468257_47ec2.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/rgbg">
