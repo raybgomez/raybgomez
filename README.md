@@ -17,7 +17,6 @@
 </div>
 <h1 align="center">
   hello! 👋
-  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="100"/>
 </h1>
 <div align="center">
   <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif" width="300" height="300"/>
