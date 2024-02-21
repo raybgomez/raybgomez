@@ -28,9 +28,7 @@
 
 - 📊 Transitioned from a career in technical recruiting
 
-- 🌱 Currently enrolled in a coding bootcamp to strengthen backend skills
-
-- 🤝 Unique insights into the hiring process
+- 🌱 Recent coding bootcamp graduate through Code the Dream
 
 - 🌟 Eagerly seeking new software development opportunities
 
