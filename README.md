@@ -65,6 +65,14 @@
     <td><a href="https://raybgomez.github.io/Weather-project/">Link</a></td>
   </tr>
   <tr>
+    <td>Get it Done Tracker</td>
+    <td> 
+      <img width="1279" alt="Getitdonetracker" src="images/Getitdone.png">
+    </td>
+    <td>This project was completed for The Code the Dream advanced bootcamp. Required for graduation. The aim of the assignment was to build a tracker using React.js, JavaScript and TypeScript </td>
+<td>◦ React<br>◦JavaScript<br>◦TypeScript<br>◦ Webpack<br>◦ CSS3 </td>    <td><a href="https://github.com/raybgomez/Get-it-Done-Tracker">Repo</a></td>
+  </tr>
+  <tr>
     <td>Mind Matters</td>
     <td> 
       <img width="1279" alt="MindMattersSS" src="https://github.com/raybgomez/raybgomez/assets/117782111/e1129824-b2c9-492c-80ae-c1f77f45cb82">
